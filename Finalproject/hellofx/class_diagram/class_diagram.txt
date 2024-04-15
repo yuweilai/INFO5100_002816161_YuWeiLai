@@ -1,0 +1,13 @@
++----------------------------------+
+|             Application          |
++----------------------------------+
+| - Stage primaryStage            |
+| - Canvas canvas                 |
+| - GraphicsContext gc            |
+| - Label digitLabel              |
++----------------------------------+
+| + start(Stage)                  |
+| + saveImage(File)               |
+| + readResult(Process)           |
+| + main(String[])                |
++----------------------------------+

@@ -10,6 +10,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
+
 public class CalculatorApp extends Application {
 
     private Label resultLabel;
